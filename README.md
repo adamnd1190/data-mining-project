@@ -12,8 +12,36 @@ This project involves mining and analyzing the FIFA dataset to uncover insights 
 2. **`FIFA Data Mining.pdf`**: Full documentation report including abstract, literature review, methods, and analysis and results.
 3. **`players_22.csv`**: FIFA dataset in CSV format.
 
-## Usage
+## Process Pipeline
 
-To run the data mining script, use the following command:
-```bash
-python fifa_analysis.py
+The data mining and analysis workflow is structured as a pipeline with the following stages:
+
+  1. Data Ingestion:
+        Load the FIFA dataset from the CSV file.
+
+  2. Data Cleaning and Transformation:
+        Handle missing values, incorrect data types, and outliers.
+        Transform features as necessary for analysis.
+
+  3. Exploratory Data Analysis (EDA):
+        Generate summary statistics.
+        Create visualizations to understand data distributions and relationships.
+
+  4. Feature Engineering:
+        Create new features based on domain knowledge and data understanding.
+
+  5. Modeling and Evaluation:
+        Apply data mining techniques and models.
+        Evaluate model performance using appropriate metrics.
+
+  6. Results and Insights:
+        Summarize findings and insights from the analysis.
+        Create visualizations to support the results.
+
+## Documentation
+
+For a comprehensive understanding of the project, including the methods, analysis, and results, refer to the 'FIFA Data Mining.pdf' file.
+
+# Dataset
+
+The dataset used in this project was taken from Kaggle: https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
