@@ -8,10 +8,9 @@ This project involves mining and analyzing the FIFA dataset to uncover insights 
 
 ## Files in the Repository
 
-1. **`fifa_analysis.py`**: Python script for processing and analyzing the FIFA dataset.
-2. **`fifa_project_report.pdf`**: Full documentation report including abstract, literature review, methods, and analysis and results.
-3. **`fifa_dataset.csv`**: FIFA dataset in CSV format.
-
+1. **`data_mining_project.ipynb`**: Python script for processing and analyzing the FIFA dataset.
+2. **`FIFA Data Mining.pdf`**: Full documentation report including abstract, literature review, methods, and analysis and results.
+3. **`players_22.csv`**: FIFA dataset in CSV format.
 
 ## Usage
 
